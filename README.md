@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a CSE student, currently studying in my senior (final) year. I've worked with Node.js, React, Python and Go and am interested in Software Engineering, Machine Learning and the Cloud. 
-
-I'm currently working on a machine learning project for my degree. 
+I'm a software engineer, currently working as a full stack developer. I've worked with Node.js, React, Python and Go and am interested in Software Engineering and Cloud. 
 
 Reach out to me at:
 - Twitter: [funoctis](https://twitter.com/funoctis)
